@@ -1,0 +1,4 @@
+git+https://github.com/huggingface/transformers
+torch
+yt-dlp==2023.11.16
+gradio==3.50
