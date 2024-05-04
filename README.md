@@ -1,4 +1,6 @@
-# How to use:
+# Whisper Large V3: Transcribe Audio (YouTube,Mic,Upload)
+
+## How to use:
 
 Clone the repository locally, then navigate into the folder and run the following from the command line:
 
